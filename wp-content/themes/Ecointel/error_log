@@ -1,0 +1,3 @@
+[19-Apr-2018 15:31:14 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/Ecointel/index.php on line 15
+[19-Apr-2018 16:19:27 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/Ecointel/index.php on line 15
+[19-Apr-2018 18:02:32 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/Ecointel/index.php on line 15

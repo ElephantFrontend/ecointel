@@ -1,0 +1,6 @@
+[10-Apr-2018 18:55:58 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/404.php on line 13
+[11-Apr-2018 05:51:40 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/404.php on line 13
+[11-Apr-2018 10:48:33 Europe/Kiev] PHP Fatal error:  Call to undefined function get_template_part() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/footer.php on line 22
+[17-Apr-2018 20:29:56 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Jun-2018 22:56:33 Europe/Kiev] PHP Fatal error:  Call to undefined function get_template_part() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Jun-2018 07:12:00 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/nbkukr/ecointel.com.ua/wp-content/themes/twentyseventeen/404.php on line 13

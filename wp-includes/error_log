@@ -1,0 +1,2 @@
+[17-Apr-2018 03:42:01 Europe/Kiev] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nbkukr/ecointel.com.ua/wp-includes/locale.php on line 10
+[08-Jun-2018 03:09:19 Europe/Kiev] PHP Fatal error:  Class 'Walker' not found in /home/nbkukr/ecointel.com.ua/wp-includes/class-walker-nav-menu.php on line 17
